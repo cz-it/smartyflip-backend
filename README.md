@@ -26,15 +26,15 @@ Welcome to the backend repository for SmartyFlip, a web application developed by
 
 ## Team members
 
-- [Vit](https://github.com/)
-- [Yakub](https://github.com/)
-- [Igor](https://github.com/cz-it)
-- [Alex](https://github.com/)
-- [Bohdan](https://github.com/)
-- [Mike](https://github.com/)
-- [Siyab](https://github.com/)
-- [Kate](https://github.com/)
-- [Serhii](https://github.com/)
+- [Vit](https://github.com/VitalKo7) Teamlead
+- [Yakub](https://github.com/) API, Backend, Frontend
+- [Igor](https://github.com/cz-it) API, Backend, Frontend
+- [Alex](https://github.com/) Frontend
+- [Bohdan](https://github.com/) Frontend
+- [Mike](https://github.com/) Frontend
+- [Siyab](https://github.com/) QA, Teamlead-QA
+- [Kate](https://github.com/) QA
+- [Serhii](https://github.com/) QA
 
 ## Technology Stack
 
