@@ -7,6 +7,7 @@ Welcome to the backend repository for SmartyFlip, a web application developed by
 - **Java 17:** Core programming language
 - **Spring Framework:** Application framework
 - **Maven:** Dependency management
+- **PostgreSQL:** Data base
 
 ## Getting Started
 
@@ -23,7 +24,7 @@ Ensure you have the following installed:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/smartyflip-backend.git
+git clone [https://github.com/yourusername/smartyflip-backend.git](https://github.com/cz-it/smartyflip-backend.git)
 cd smartyflip-backend
 ```
 
@@ -70,7 +71,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-We hope you find this project useful and look forward to your contributions and feedback.
-```
+## Show your support
 
-Feel free to modify any section according to your specific needs and project details. This template aims to provide a good starting point for documenting a software project on GitHub.
+Give a ⭐️ if you like this project!
+# smartyflip-backend
