@@ -24,7 +24,7 @@ Ensure you have the following installed:
 1. **Clone the repository**
 
 ```bash
-git clone [https://github.com/yourusername/smartyflip-backend.git](https://github.com/cz-it/smartyflip-backend.git)
+git clone https://github.com/cz-it/smartyflip-backend.git
 cd smartyflip-backend
 ```
 
