@@ -16,7 +16,7 @@ Welcome to the backend repository for SmartyFlip, a web application developed by
 - Proper Exception Handling
 - SignUp and Login
 - Add, get, modify and delete items in database
-- Data Stored in the database(PostgreSQL)
+- Data Stored in the database (PostgreSQL)
 
 ## Live Demo
 
@@ -26,13 +26,13 @@ Welcome to the backend repository for SmartyFlip, a web application developed by
 
 ## Team members
 
-- [Vit](https://github.com/VitalKo7) Teamlead
-- [Yakub](https://github.com/) API, Backend, Frontend
-- [Igor](https://github.com/cz-it) API, Backend, Frontend
+- [Vit](https://github.com/VitalKo7) Teaml ead
+- [Yakub](https://github.com/) API architecture, Backend, Frontend
+- [Igor](https://github.com/cz-it) API and DB architecture, Backend, Frontend
 - [Alex](https://github.com/) Frontend
 - [Bohdan](https://github.com/) Frontend
 - [Mike](https://github.com/) Frontend
-- [Siyab](https://github.com/) QA, Teamlead-QA
+- [Siyab](https://github.com/) QA, Team lead-QA
 - [Kate](https://github.com/) QA
 - [Serhii](https://github.com/) QA
 
