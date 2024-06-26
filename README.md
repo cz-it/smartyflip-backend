@@ -2,6 +2,40 @@
 
 Welcome to the backend repository for SmartyFlip, a web application developed by students of AIT-TR Courses as part of their graduation project. SmartyFlip is designed to assist junior developers in preparing for job interviews by providing them with a resourceful platform that offers various stacks of questions and answers.
 
+## Functionalities
+
+- You can register/login
+- See all cards (flashcards) & modules
+- Find cards/modules by tech.stack
+- Add/edit your cards/modules
+- Test yourself :)
+
+## Backend Work
+
+- Proper Input Validation
+- Proper Exception Handling
+- SignUp and Login
+- Add, get, modify and delete items in database
+- Data Stored in the database(PostgreSQL)
+
+## Live Demo
+
+<!-- https:// -->
+
+- [Live Demo Link](https://smartyflip.de)
+
+## Team members
+
+- [Vit](https://github.com/)
+- [Yakub](https://github.com/)
+- [Igor](https://github.com/cz-it)
+- [Alex](https://github.com/)
+- [Bohdan](https://github.com/)
+- [Mike](https://github.com/)
+- [Siyab](https://github.com/)
+- [Kate](https://github.com/)
+- [Serhii](https://github.com/)
+
 ## Technology Stack
 
 - **Java 17:** Core programming language
@@ -18,6 +52,7 @@ These instructions will get you a copy of the project up and running on your loc
 Ensure you have the following installed:
 - Java 17
 - Maven
+- Frontend part of this application https://github.com/cz-it/smartyfllip-frontend.git
 
 ### Installation
 
